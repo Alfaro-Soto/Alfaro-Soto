@@ -1,4 +1,31 @@
 ## Hi there 👋 Glad you're here!
+## MIGUEL ALFARO SOTO
+## 🙋‍♂️ABOUT ME
+<p>Researcher exploring the intersection of geosciences, computational modeling, and machine learning. My work focuses on complex subsurface systems in porous media, integrating multiphase flow modeling, experimental investigation, and physics-informed machine learning to better understand environmental processes and carbon storage.</p>
+
+## 🛠️ TECHNICAL & ANALYTICAL TOOLKIT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://www.linkedin.com/in/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 <!--
 **Alfaro-Soto/Alfaro-Soto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +41,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+xxxx
