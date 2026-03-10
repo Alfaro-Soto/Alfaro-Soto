@@ -38,6 +38,8 @@
 - Carbon storage and mineralization in geological formations
 
 ## 🎯 PROFESSIONAL OBJECTIVE
+Researcher exploring the intersection of geosciences, computational modeling, and machine learning. My work focuses on complex subsurface systems in porous media, integrating multiphase flow modeling, experimental investigation, and physics-informed machine learning to better understand environmental processes and carbon storage.
+
 
 
 
