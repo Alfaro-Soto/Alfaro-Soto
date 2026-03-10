@@ -28,7 +28,14 @@
 - Environmental geotechnics and hydrogeological processes
 - Computational modeling and simulation of complex earth systems
 
+## 🔍 RESEARCH INTERESTS
 
+- Physics-informed machine learning for physical systems
+- Scientific machine learning for porous media processes
+- Multiphase flow and reactive transport modeling
+- Subsurface environmental processes and contaminant transport
+- Uncertainty-aware modeling and prediction in environmental systems
+- Carbon storage and mineralization in geological formations
 
 
 
