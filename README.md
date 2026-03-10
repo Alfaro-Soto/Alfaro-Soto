@@ -20,6 +20,13 @@
 - **Jupyter Notebook**
 - **Git & GitHub**
 
+## 📊 FOCUS AREAS
+
+- Numerical modeling of multiphase flow in porous media
+- Data-driven modeling of subsurface environmental systems
+- Integration of physical laws with machine learning models
+- Environmental geotechnics and hydrogeological processes
+- Computational modeling and simulation of complex earth systems
 
 
 
