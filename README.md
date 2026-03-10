@@ -37,7 +37,7 @@
 - Uncertainty-aware modeling and prediction in environmental systems
 - Carbon storage and mineralization in geological formations
 
-
+## 🎯 PROFESSIONAL OBJECTIVE
 
 
 
