@@ -4,7 +4,21 @@
 <p>Researcher exploring the intersection of geosciences, computational modeling, and machine learning. My work focuses on complex subsurface systems in porous media, integrating multiphase flow modeling, experimental investigation, and physics-informed machine learning to better understand environmental processes and carbon storage.</p>
 
 ## 🛠️ TECHNICAL & ANALYTICAL TOOLKIT
+### Data Analysis & Modeling
+- **Python** (Pandas, NumPy, SciPy)
+- **Exploratory Data Analysis (EDA)**
+- **Statistical inference & hypothesis testing**
+- **Business-oriented Machine Learning** (segmentation, churn analysis, demand patterns)
 
+### Data Visualization & Decision Support
+- **Matplotlib, Seaborn**
+- **Streamlit** for interactive dashboards
+- Executive-ready visualizations for non-technical stakeholders
+
+### Data & Tools
+- **SQL / PostgreSQL**
+- **Jupyter Notebook**
+- **Git & GitHub**
 
 
 
