@@ -46,11 +46,11 @@ Researcher exploring the intersection of geosciences, computational modeling, an
 Prediction of rougher and final gold recovery using data-driven models and sMAPE evaluation.Customer behavior, reorder patterns, and demand insights for e-commerce strategy  
 https://github.com/Alfaro-Soto/Gold-Recovery-Prediction-in-Industrial-Mining-Using-Machine-Learning/blob/main/Proyecto%2013%20-%20Miguel%20Alfaro.ipynb
 
-**Telecom Pricing & Revenue Analysis – Megaline**  
-Pricing optimization and revenue comparison using statistical inference  
+**Predictive Modeling for Strategic Oil Drilling Decisions**  
+Linear regression model and bootstrapping risk analysis used to identify the most profitable drilling region and optimize well selection.
 https://github.com/Alfaro-Soto/Analise-de-Rentabilidade-Pocos-de-Petroleo/blob/0e76f39063bc89a000b58f7bd68711a9b904c3ae/Proyecto%2012%20-%20Miguel%20Alfaro.ipynb
 
-🔹 **Vehicle Market Intelligence Dashboard (US)**  
+**Vehicle Market Intelligence Dashboard (US)**  
 Interactive analytics for pricing and inventory decisions  
 https://github.com/Carolg3456/vehicle_market_intelligence_dashboard_us  
 
