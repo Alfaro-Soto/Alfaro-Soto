@@ -42,11 +42,11 @@ Researcher exploring the intersection of geosciences, computational modeling, an
 
 ## 📂 SELECTED PROJECTS (Data Analytics)
 
-🔹 **Retail Customer Behavior Intelligence – Instacart (US)**  
-Customer behavior, reorder patterns, and demand insights for e-commerce strategy  
+**Industrial Mineral Processing Optimization with Machine Learning**  
+Prediction of rougher and final gold recovery using data-driven models and sMAPE evaluation.Customer behavior, reorder patterns, and demand insights for e-commerce strategy  
 https://github.com/Carolg3456/retail_customer_behavior_intelligence_instacart_us  
 
-🔹 **Telecom Pricing & Revenue Analysis – Megaline**  
+**Telecom Pricing & Revenue Analysis – Megaline**  
 Pricing optimization and revenue comparison using statistical inference  
 https://github.com/Carolg3456/telecom_pricing_revenue_analysis_megaline  
 
