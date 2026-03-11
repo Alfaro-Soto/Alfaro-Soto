@@ -50,14 +50,9 @@ https://github.com/Alfaro-Soto/Gold-Recovery-Prediction-in-Industrial-Mining-Usi
 Linear regression model and bootstrapping risk analysis used to identify the most profitable drilling region and optimize well selection.
 https://github.com/Alfaro-Soto/Analise-de-Rentabilidade-Pocos-de-Petroleo/blob/0e76f39063bc89a000b58f7bd68711a9b904c3ae/Proyecto%2012%20-%20Miguel%20Alfaro.ipynb
 
-**Vehicle Market Intelligence Dashboard (US)**  
-Interactive analytics for pricing and inventory decisions  
-https://github.com/Carolg3456/vehicle_market_intelligence_dashboard_us  
-
-
-
-
-
+**Customer Behavior & Market Basket Analysis (Instacart)**  
+Exploratory analysis of 3M+ grocery transactions to identify purchasing patterns, reorder behavior, and customer segmentation insights for data-driven marketing decisions.
+https://github.com/Alfaro-Soto/Analysis-Retail-Instacart-US/blob/main/Proyecto%204%20-%20Miguel%20Alfaro.ipynb
 
 ## 📧 LET'S CONNECT
 <a href="https://www.linkedin.com/in/miguel-alfaro-soto-373410156" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   Miguel Alfaro Soto<br>
