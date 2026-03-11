@@ -44,7 +44,7 @@ Researcher exploring the intersection of geosciences, computational modeling, an
 
 **Industrial Mineral Processing Optimization with Machine Learning**  
 Prediction of rougher and final gold recovery using data-driven models and sMAPE evaluation.Customer behavior, reorder patterns, and demand insights for e-commerce strategy  
-https://github.com/Carolg3456/retail_customer_behavior_intelligence_instacart_us  
+https://github.com/Alfaro-Soto/Gold-Recovery-Prediction-in-Industrial-Mining-Using-Machine-Learning/blob/main/Proyecto%2013%20-%20Miguel%20Alfaro.ipynb
 
 **Telecom Pricing & Revenue Analysis – Megaline**  
 Pricing optimization and revenue comparison using statistical inference  
