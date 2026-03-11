@@ -48,7 +48,7 @@ https://github.com/Alfaro-Soto/Gold-Recovery-Prediction-in-Industrial-Mining-Usi
 
 **Telecom Pricing & Revenue Analysis – Megaline**  
 Pricing optimization and revenue comparison using statistical inference  
-https://github.com/Carolg3456/telecom_pricing_revenue_analysis_megaline  
+https://github.com/Alfaro-Soto/Analise-de-Rentabilidade-Pocos-de-Petroleo/blob/0e76f39063bc89a000b58f7bd68711a9b904c3ae/Proyecto%2012%20-%20Miguel%20Alfaro.ipynb
 
 🔹 **Vehicle Market Intelligence Dashboard (US)**  
 Interactive analytics for pricing and inventory decisions  
