@@ -43,15 +43,15 @@ Researcher exploring the intersection of geosciences, computational modeling, an
 ## 📂 SELECTED PROJECTS (Data Analytics)
 
 **Industrial Mineral Processing Optimization with Machine Learning**  
-Prediction of rougher and final gold recovery using data-driven models and sMAPE evaluation.Customer behavior, reorder patterns, and demand insights for e-commerce strategy  
+Prediction of rougher and final gold recovery using data-driven models and sMAPE evaluation.Customer behavior, reorder patterns, and demand insights for e-commerce strategy.<br> 
 https://github.com/Alfaro-Soto/Gold-Recovery-Prediction-in-Industrial-Mining-Using-Machine-Learning/blob/main/Proyecto%2013%20-%20Miguel%20Alfaro.ipynb
 
 **Predictive Modeling for Strategic Oil Drilling Decisions**  
-Linear regression model and bootstrapping risk analysis used to identify the most profitable drilling region and optimize well selection.
+Linear regression model and bootstrapping risk analysis used to identify the most profitable drilling region and optimize well selection.<br>
 https://github.com/Alfaro-Soto/Analise-de-Rentabilidade-Pocos-de-Petroleo/blob/0e76f39063bc89a000b58f7bd68711a9b904c3ae/Proyecto%2012%20-%20Miguel%20Alfaro.ipynb
 
 **Customer Behavior & Market Basket Analysis (Instacart)**  
-Exploratory analysis of 3M+ grocery transactions to identify purchasing patterns, reorder behavior, and customer segmentation insights for data-driven marketing decisions.
+Exploratory analysis of 3M+ grocery transactions to identify purchasing patterns, reorder behavior, and customer segmentation insights for data-driven marketing decisions.<br>
 https://github.com/Alfaro-Soto/Analysis-Retail-Instacart-US/blob/main/Proyecto%204%20-%20Miguel%20Alfaro.ipynb
 
 ## 📧 LET'S CONNECT
