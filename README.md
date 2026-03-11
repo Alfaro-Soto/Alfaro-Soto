@@ -40,6 +40,25 @@
 ## 🎯 PROFESSIONAL OBJECTIVE
 Researcher exploring the intersection of geosciences, computational modeling, and machine learning. My work focuses on complex subsurface systems in porous media, integrating multiphase flow modeling, experimental investigation, and physics-informed machine learning to better understand environmental processes and carbon storage.
 
+## 📂 SELECTED PROJECTS (Data Analytics)
+
+🔹 **Retail Customer Behavior Intelligence – Instacart (US)**  
+Customer behavior, reorder patterns, and demand insights for e-commerce strategy  
+https://github.com/Carolg3456/retail_customer_behavior_intelligence_instacart_us  
+
+🔹 **Telecom Pricing & Revenue Analysis – Megaline**  
+Pricing optimization and revenue comparison using statistical inference  
+https://github.com/Carolg3456/telecom_pricing_revenue_analysis_megaline  
+
+🔹 **Vehicle Market Intelligence Dashboard (US)**  
+Interactive analytics for pricing and inventory decisions  
+https://github.com/Carolg3456/vehicle_market_intelligence_dashboard_us  
+
+
+
+
+
+
 ## 📧 LET'S CONNECT
 <a href="https://www.linkedin.com/in/miguel-alfaro-soto-373410156" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   Miguel Alfaro Soto<br>
 ✉ **alfaro.soto.ma@gmail.com**
