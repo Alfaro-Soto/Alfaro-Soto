@@ -1,3 +1,4 @@
+![image alt](https://github.com/Alfaro-Soto/Alfaro-Soto/blob/26501098a5f4daaf45eb108850e666e61366552d/Miguel%20Alfaro%20Soto.png)
 ## Hi there 👋 Glad you're here!
 
 ## MIGUEL ALFARO SOTO
